@@ -1,8 +1,8 @@
-POST http://localhost:3001/api/persons
+POST https://safe-spire-72784.herokuapp.com/api/persons
 Content-Type: application/json
 
 {
     "id": 0,
-    "name": "nio",
+    "name": "niddo",
     "number": "2134i45i55446"
  }
